@@ -110,4 +110,44 @@ console.log(end.endsWith("script"));
 
 // 14) repeat()
 
+
 console.log("JS".repeat(10));
+
+
+/* 
+OUTPUT :-
+
+5
+u
+l
+true
+6
+JAV
+[
+  'F', 'r', 'e',
+  'e', 'F', 'i',
+  'r', 'e'
+]
+CallofBGMI
+JAVASCRIPT
+javascript
+122222        trimthisspace
+true
+true
+JSJSJSJSJSJSJSJSJSJS
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
